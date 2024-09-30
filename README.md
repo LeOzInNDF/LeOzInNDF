@@ -14,6 +14,8 @@
 - HTML
 - CSS
 - JavaScript
+- React
+- React-Native
 - Kotlin
 - Dart
 - Java (Android) 
@@ -22,6 +24,7 @@
   <img align="center" alt="LeOzInNDF-Ht" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="LeOzInNDF-Cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="LeOzInNDF-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="LeOzInNDF-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="LeOzInNDF-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img align="center" alt="LeOzInNDF-Ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    
